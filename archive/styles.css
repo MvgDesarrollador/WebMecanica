@@ -1,0 +1,29 @@
+/*Configuraciones*/
+body {
+  background-color: rgb(31, 31, 37);
+}
+
+/*-----------/--/---------------*/
+
+
+
+
+/*Selector de tipo( POR ETIQUETA )*/
+h2 {
+  color: blueviolet;
+  font-family: Arial;
+}
+
+
+/*Selector de clase */
+.pelicula {
+  color: aqua;
+  font-family: Arial;
+
+}
+
+.serie {
+  color: cadetblue;
+  font-family: Arial;
+
+}

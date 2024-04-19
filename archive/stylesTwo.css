@@ -1,0 +1,9 @@
+body{
+  background-color: darkslategray;
+}
+ul .lista {
+  text-decoration: underline;
+}
+.todo .listas {
+  color: blueviolet;
+}

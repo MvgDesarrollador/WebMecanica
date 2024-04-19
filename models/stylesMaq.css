@@ -1,0 +1,138 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: #3a3d47;
+  font-family: cursive;
+}
+
+.container{
+  width: 1200px;
+  background: white;
+  margin: 10px auto;
+}
+
+.superior{
+  background: #1551a1;
+  overflow: hidden;
+}
+
+.logo{
+  float: left;
+  width: 300px;
+  padding: 35px;
+}
+
+.menu{
+  float: left;
+}
+.opciones li {
+  margin: 37px 5px 0px;
+  float: left;
+  list-style: none;
+  border: 2px solid #3a3d47;  
+  border-radius: 10px;
+  padding: 10px;
+  background: #3974c0;
+}
+.opciones li a {
+  color: aliceblue;
+  text-decoration: none;
+}
+.opciones li:hover{
+  background: #133b70;
+  cursor: pointer;
+}
+.slider {
+  height: 422px;
+}
+.slider img{
+  width: 1200px;
+  height: 422px;
+}
+.cuerpo{
+  height: 535px;
+}
+.title{
+  font-size: 5mm;
+  text-align: center;
+  margin: 3px;
+  color: #ff7500;
+  height: 30px;
+  padding: 3px;
+}
+.caja {
+  float: left;
+  width: 372px;
+  height: 420;
+  margin: 0px 10px;
+  border: 4px solid #3a3d47;
+  border-radius: 3px;
+}
+.subtitulo{
+  background: #1551a1;
+  height: 300.5px; 
+}
+.efectoImg{
+  width: 372px;
+  height: 240px;
+  margin-bottom: -1px;
+}
+.efectoImg:hover{
+  opacity: 0.8;
+  cursor: pointer;
+}
+.servicios{
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  border-top: 4px solid #3a3d47;
+  border-bottom: 4px solid #3a3d47;
+  margin: -4px auto;
+
+}
+.parrafo{
+  text-align: justify;
+  padding: 10px;
+}
+
+.boton{
+  background: #1551a1;
+  border: 2px solid #3a3d47;
+  border-radius: 4px;
+  padding: 10px 10px;
+  margin-top: 6px;
+  color:white;
+}
+
+.boton:hover {
+  background: #0c2c57;
+  cursor: pointer;
+}
+
+.pie{
+  background: #062348;
+  overflow: hidden;
+}
+.izquierda{
+  float: left;
+  width: 550px;
+}
+.derecha{
+  float: left;
+  width: 550px;
+  margin-top: 30px;
+  margin-left: 60px;
+}
+#logo-footer{
+  height: 45px;
+  margin: 20px auto 10px;
+}
+.footerText{
+  color: white;
+  margin: 0px auto 10px;
+  font-size: 12px;
+  margin-left: 15px;
+}
